@@ -1,0 +1,122 @@
+[
+  {
+    "matricula": 1001,
+    "foto": "https://example.com/foto1.jpg",
+    "nome": "João Silva",
+    "cargo": "Analista Administrativo",
+    "orgao": "Ministério da Economia",
+    "lotacao": "Brasília - DF",
+    "email": "joao.silva@economia.gov.br",
+    "salario": 8500.00,
+    "cursos": ["Gestão Pública", "Orçamento e Finanças"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1002,
+    "foto": "https://example.com/foto2.jpg",
+    "nome": "Maria Souza",
+    "cargo": "Técnico Legislativo",
+    "orgao": "Câmara dos Deputados",
+    "lotacao": "Brasília - DF",
+    "email": "maria.souza@camara.gov.br",
+    "salario": 7000.50,
+    "cursos": ["Direito Constitucional", "Processo Legislativo"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1003,
+    "foto": "https://example.com/foto3.jpg",
+    "nome": "Carlos Pereira",
+    "cargo": "Auditor Fiscal",
+    "orgao": "Receita Federal",
+    "lotacao": "São Paulo - SP",
+    "email": "carlos.pereira@rfb.gov.br",
+    "salario": 12000.00,
+    "cursos": ["Tributação", "Combate à Corrupção"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1004,
+    "foto": "https://example.com/foto4.jpg",
+    "nome": "Ana Lima",
+    "cargo": "Delegada de Polícia",
+    "orgao": "Polícia Federal",
+    "lotacao": "Rio de Janeiro - RJ",
+    "email": "ana.lima@pf.gov.br",
+    "salario": 14000.75,
+    "cursos": ["Investigação Criminal", "Segurança Pública"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1005,
+    "foto": "https://example.com/foto5.jpg",
+    "nome": "Lucas Almeida",
+    "cargo": "Procurador",
+    "orgao": "AGU",
+    "lotacao": "Brasília - DF",
+    "email": "lucas.almeida@agu.gov.br",
+    "salario": 15000.00,
+    "cursos": ["Direito Administrativo", "Processo Civil"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1006,
+    "foto": "https://example.com/foto6.jpg",
+    "nome": "Fernanda Castro",
+    "cargo": "Engenheira Civil",
+    "orgao": "DNIT",
+    "lotacao": "Curitiba - PR",
+    "email": "fernanda.castro@dnit.gov.br",
+    "salario": 9000.00,
+    "cursos": ["Infraestrutura Viária", "Projetos de Obras"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1007,
+    "foto": "https://example.com/foto7.jpg",
+    "nome": "Eduardo Gomes",
+    "cargo": "Médico",
+    "orgao": "Ministério da Saúde",
+    "lotacao": "São Paulo - SP",
+    "email": "eduardo.gomes@saude.gov.br",
+    "salario": 11000.30,
+    "cursos": ["Saúde Pública", "Emergências Médicas"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1008,
+    "foto": "https://example.com/foto8.jpg",
+    "nome": "Paula Mendes",
+    "cargo": "Professora",
+    "orgao": "MEC",
+    "lotacao": "Belo Horizonte - MG",
+    "email": "paula.mendes@mec.gov.br",
+    "salario": 6800.00,
+    "cursos": ["Pedagogia", "Metodologias Ativas"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1009,
+    "foto": "https://example.com/foto9.jpg",
+    "nome": "Roberto Nunes",
+    "cargo": "Analista de TI",
+    "orgao": "SERPRO",
+    "lotacao": "Porto Alegre - RS",
+    "email": "roberto.nunes@serpro.gov.br",
+    "salario": 9500.25,
+    "cursos": ["Segurança da Informação", "Desenvolvimento Ágil"],
+    "acoes": "Editar, Excluir"
+  },
+  {
+    "matricula": 1010,
+    "foto": "https://example.com/foto10.jpg",
+    "nome": "Vanessa Oliveira",
+    "cargo": "Cientista de Dados",
+    "orgao": "IBGE",
+    "lotacao": "Rio de Janeiro - RJ",
+    "email": "vanessa.oliveira@ibge.gov.br",
+    "salario": 10500.90,
+    "cursos": ["Big Data", "Estatística Aplicada"],
+    "acoes": "Editar, Excluir"
+  }
+]

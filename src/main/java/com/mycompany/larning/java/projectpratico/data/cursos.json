@@ -1,0 +1,112 @@
+[
+  {
+    "idcurso": 1,
+    "nome": "BootCamp de Desenvolvimento WEB",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/webdevelopment.png",
+    "formarealizacao": "EAD",
+    "ofertante": "Ironhack",
+    "vagas": 50,
+    "valor": 20000.0,
+    "site": "https://www.ironhack.com/en/web-development",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 2,
+    "nome": "Curso de Data Science",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/datascience.png",
+    "formarealizacao": "EAD",
+    "ofertante": "DataCamp",
+    "vagas": 30,
+    "valor": 15000.0,
+    "site": "https://www.datacamp.com",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 3,
+    "nome": "Curso de Machine Learning",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/machinelearning.png",
+    "formarealizacao": "Presencial",
+    "ofertante": "Coursera",
+    "vagas": 40,
+    "valor": 25000.0,
+    "site": "https://www.coursera.org",
+    "situacao": "Inscrições Encerradas"
+  },
+  {
+    "idcurso": 4,
+    "nome": "Curso de Cybersecurity",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/cybersecurity.png",
+    "formarealizacao": "EAD",
+    "ofertante": "Udemy",
+    "vagas": 60,
+    "valor": 12000.0,
+    "site": "https://www.udemy.com",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 5,
+    "nome": "Curso de Cloud Computing",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/cloudcomputing.png",
+    "formarealizacao": "EAD",
+    "ofertante": "AWS",
+    "vagas": 20,
+    "valor": 30000.0,
+    "site": "https://aws.amazon.com/training/",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 6,
+    "nome": "Curso de Mobile Development",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/mobiledevelopment.png",
+    "formarealizacao": "Presencial",
+    "ofertante": "Google",
+    "vagas": 35,
+    "valor": 22000.0,
+    "site": "https://developers.google.com",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 7,
+    "nome": "Curso de UX/UI Design",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/uxui.png",
+    "formarealizacao": "EAD",
+    "ofertante": "Interaction Design Foundation",
+    "vagas": 25,
+    "valor": 18000.0,
+    "site": "https://www.interaction-design.org",
+    "situacao": "Inscrições Encerradas"
+  },
+  {
+    "idcurso": 8,
+    "nome": "Curso de DevOps",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/devops.png",
+    "formarealizacao": "EAD",
+    "ofertante": "Pluralsight",
+    "vagas": 45,
+    "valor": 21000.0,
+    "site": "https://www.pluralsight.com",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 9,
+    "nome": "Curso de Blockchain",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/blockchain.png",
+    "formarealizacao": "EAD",
+    "ofertante": "Binance Academy",
+    "vagas": 15,
+    "valor": 28000.0,
+    "site": "https://academy.binance.com",
+    "situacao": "Inscrições Abertas"
+  },
+  {
+    "idcurso": 10,
+    "nome": "Curso de Inteligência Artificial",
+    "foto": "https://abctreinamentos.com.br/imgs/cursos/ai.png",
+    "formarealizacao": "Presencial",
+    "ofertante": "edX",
+    "vagas": 50,
+    "valor": 26000.0,
+    "site": "https://www.edx.org",
+    "situacao": "Inscrições Abertas"
+  }
+]
