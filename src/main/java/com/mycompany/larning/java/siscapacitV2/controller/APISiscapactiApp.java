@@ -1,8 +1,9 @@
 package com.mycompany.larning.java.siscapacitV2.controller;
 
+import com.mycompany.larning.java.siscapacitV2.model.Cursos;
 import com.mycompany.larning.java.siscapacitV2.model.ServidorPublico;
 
-public class APIServidorPublicoImpl implements APIServidorPublico{
+public class APISiscapactiApp implements APIServidorPublico,APICurso{
     @Override
     public void adicionarServidorPublico() {
 
@@ -45,6 +46,46 @@ public class APIServidorPublicoImpl implements APIServidorPublico{
 
     @Override
     public void listarCursosServidorPublico(int matricula) {
+
+    }
+
+    @Override
+    public void adicionarCurso() {
+
+    }
+
+    @Override
+    public void listarCurso() {
+
+    }
+
+    @Override
+    public void listarCurso(int idCusro) {
+
+    }
+
+    @Override
+    public void alterarCurso(Cursos Curso) {
+
+    }
+
+    @Override
+    public void excluirCurso(int idCusro) {
+
+    }
+
+    @Override
+    public void adicionarServidorCurso(int idCusro, int matricula) {
+
+    }
+
+    @Override
+    public void excluirServidorCurso(int idCusro, int matricula) {
+
+    }
+
+    @Override
+    public void listarServidorCurso(int idCusro) {
 
     }
 }
